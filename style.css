@@ -1,0 +1,26 @@
+/* Body Code */
+*{
+
+    background-color: #333333;
+}
+
+
+
+/* Header Code */
+.header{
+    color:white;
+    background-color: transparent;
+    text-decoration-line: unset;
+    background-size: cover;
+    border-style: double;
+    border-width: 7px;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 60px;
+    font-weight: 100;
+}
+/*Positioning*/
+.header{
+    text-align: center;
+ 
+}
+
